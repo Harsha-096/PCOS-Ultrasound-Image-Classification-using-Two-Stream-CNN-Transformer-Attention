@@ -61,6 +61,8 @@ Actual: Non-Infected	      8	                        670
 ```
 (Exact values may vary slightly based on random seed and training session)
 
+![Confusion Matrix](https://github.com/Harsha-096/PCOS-Ultrasound-Image-Classification-using-Two-Stream-CNN-Transformer-Attention/blob/6630b41fe7be834d6dacd094057a41faf03f0256/Reports/Confusion%20Matrix.png)
+
 🔹 Dataset Summary
 
 Total Samples: 11,784
@@ -70,6 +72,8 @@ Infected: 6,784
 Non-Infected: 5,000
 
 After Balancing: 6,784 each
+
+![Distribution of PCOS Types - Pie Chart](https://github.com/Harsha-096/PCOS-Ultrasound-Image-Classification-using-Two-Stream-CNN-Transformer-Attention/blob/6630b41fe7be834d6dacd094057a41faf03f0256/Reports/Distribution%20of%20PCOS%20Types%20-%20Pie%20Chart.png)
 
 ## ▶️ Usage
 
