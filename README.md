@@ -2,7 +2,7 @@
 ### Download :- [Dataset(PCOS)](https://drive.google.com/drive/folders/1wW_mjlxlU2MMqjJlICzA1Xn8fyAYqeFd?usp=sharing)
 ## 📄 Description
 
-This project implements a **Two-Stream Convolutional Neural Network (CNN) with Transformer Attention** to classify ultrasound images for **Polycystic Ovary Syndrome (PCOS)** detection. The model intelligently splits input images, processes both halves through separate CNN streams, and integrates their outputs using multi-head self-attention to enhance classification accuracy. The pipeline is designed for medical image analysis and delivers robust and interpretable performance in identifying PCOS-infected and non-infected cases.
+This project focuses on classifying Polycystic Ovary Syndrome (PCOS) ultrasound images into two categories: "infected" and "noninfected." The model employs a two-stream Convolutional Neural Network (CNN) combined with a Transformer attention mechanism to enhance feature extraction and classification accuracy. The dataset consists of 11,784 images, which were preprocessed, balanced, and split into training, validation, and test sets. The model achieved a test accuracy of 99.34%, demonstrating its effectiveness in PCOS diagnosis.
 
 ## 🚀 Features
 
